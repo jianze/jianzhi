@@ -1,0 +1,221 @@
+{
+  "news-detail.html": {
+    "href": "news-detail.html",
+    "resources": [
+      "js/rem.js",
+      "css/news-detail.css",
+      "images/ycw/zuojicon2.png",
+      "images/ycw/pinjia.png",
+      "images/ycw/plun.png",
+      "images/ycw/phone.png",
+      "images/ycw/jianli.png",
+      "images/ycw/qiangqin.png",
+      "images/ycw/NEW.png",
+      "images/ycw/zdian.png",
+      "images/ycw/jianjie.png",
+      "images/ycw/arc.png",
+      "images/ycw/miaoshu.png",
+      "images/ycw/rensu.png",
+      "images/ycw/sj.png",
+      "images/ycw/fangda.png",
+      "images/ycw/dizhi.png",
+      "images/ycw/diand.png",
+      "images/ycw/guimo.png",
+      "images/ycw/xingzhi.png",
+      "images/ycw/daiyu.png",
+      "images/ycw/neirong.png",
+      "images/ycw/dian.png",
+      "images/ycw/history.png",
+      "images/ycw/favourite2.png",
+      "images/ycw/feedback.png",
+      "images/ycw/star2.png",
+      "images/ycw/star.png"
+    ],
+    "refer": [
+      "index.html"
+    ],
+    "priority": 0
+  },
+  "grzx.html": {
+    "href": "grzx.html",
+    "resources": [
+      "css/zh/grzx.css",
+      "js/rem.js",
+      "images/zh/shuju.png",
+      "images/zh/quxian.png",
+      "images/zh/min.png",
+      "images/zh/jiazai.png",
+      "images/zh/fanhui.png",
+      "images/zh/Ellipse37.png",
+      "images/zh/clock1.png",
+      "images/zh/target1.png",
+      "images/zh/NEW.png",
+      "images/zh/feedback.png",
+      "images/zh/favourite2.png",
+      "images/zh/more1.png",
+      "images/zh/favourite1.png"
+    ],
+    "refer": [
+      "grzx1.html",
+      "news-detail.html"
+    ],
+    "priority": 0
+  },
+  "jz-yyy.html": {
+    "href": "jz-yyy.html",
+    "resources": [
+      "js/rem.js",
+      "css/public.css",
+      "css/yyy.css",
+      "js/yyy.js",
+      "images/jl/zhezicon2.png",
+      "images/jl/zuojicon2.png",
+      "images/jl/zhezicon.png",
+      "images/jl/zuojicon.png",
+      "images/jl/tisy.png",
+      "images/jl/conts1.png",
+      "images/jl/reload.png"
+    ],
+    "refer": [
+      "grzx.html"
+    ],
+    "priority": 0
+  },
+  "grzx1.html": {
+    "href": "grzx1.html",
+    "resources": [
+      "css/zh/grzx1.css",
+      "js/rem.js",
+      "js/zh/grzx1.js",
+      "images/zh/fanhui.png",
+      "images/zh/nv.png",
+      "images/zh/heimian.png",
+      "images/zh/gdsz.png",
+      "images/zh/dengji.png",
+      "images/zh/dizhi.png",
+      "images/zh/youxiang.png",
+      "images/zh/xinxi.png",
+      "images/zh/san1.png",
+      "images/zh/shoucang.png",
+      "images/zh/san2.png",
+      "images/zh/heimian2.png",
+      "images/zh/dingyue.png",
+      "images/zh/san4.png",
+      "images/zh/zixun.png",
+      "images/zh/san5.png",
+      "images/zh/genduo.png",
+      "images/zh/gdbj.png",
+      "images/zh/yaoyao.png",
+      "images/zh/san3.png",
+      "images/zh/yaoyiyao.png"
+    ],
+    "refer": [
+      "index.html",
+      "jz-yyy.html"
+    ],
+    "priority": 0
+  },
+  "bd.html": {
+    "href": "bd.html",
+    "resources": [
+      "css/bd.css",
+      "images/wjz/iyou.png",
+      "images/wjz/fanhui.png",
+      "images/wjz/jitui.png",
+      "images/wjz/clock3.png",
+      "images/wjz/target.png",
+      "images/wjz/checklist.png",
+      "images/wjz/kuaiji.png",
+      "images/wjz/yishu.png",
+      "images/wjz/instagram.png",
+      "images/wjz/file.png",
+      "images/wjz/video.png",
+      "images/wjz/coke.png",
+      "images/wjz/flask.png",
+      "images/wjz/globe.png",
+      "images/wjz/wing.png",
+      "images/wjz/favourite1.png"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "jz.html": {
+    "href": "jz.html",
+    "resources": [
+      "js/rem.js",
+      "js/ml/swiper.min.js",
+      "js/ml/index.js",
+      "css/bace/bace.css",
+      "css/ml/swiper.min.css",
+      "css/ml/index.css",
+      "css/jzbd.css",
+      "images/wjz/jzbaodian.png",
+      "images/ml/logo.png",
+      "images/ml/gerenzhongxing.png",
+      "images/ml/sousuo.png",
+      "images/ml/yuying.png",
+      "images/ml/xzcity.png",
+      "images/ml/bdingwei.png",
+      "images/ml/xxjz1.png",
+      "images/ml/xxbd.png",
+      "images/ml/xxpj1.png",
+      "images/ml/xxzs1.png",
+      "images/ml/dingwei.png",
+      "images/ml/jt.png",
+      "images/ml/banner.jpg",
+      "images/wjz/imac.png",
+      "images/wjz/heart1.png"
+    ],
+    "refer": [
+      "grzx1.html",
+      "index.html",
+      "news-detail.html"
+    ],
+    "priority": 0
+  },
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "js/ml/swiper.min.js",
+      "js/ml/index.js",
+      "css/bace/bace.css",
+      "css/ml/swiper.min.css",
+      "css/ml/index.css",
+      "js/rem.js",
+      "images/ml/tuijian.png",
+      "images/ml/logo.png",
+      "images/ml/gerenzhongxing.png",
+      "images/ml/sousuo.png",
+      "images/ml/yuying.png",
+      "images/ml/xzcity.png",
+      "images/ml/bdingwei.png",
+      "images/ml/clock.png",
+      "images/ml/target.png",
+      "images/ml/pen.png",
+      "images/ml/flask.png",
+      "images/ml/checklist.png",
+      "images/ml/more.png",
+      "images/ml/xxjz.png",
+      "images/ml/xxbd1.png",
+      "images/ml/xxpj1.png",
+      "images/ml/xxzs1.png",
+      "images/ml/dingwei.png",
+      "images/ml/jt.png",
+      "images/ml/banner.jpg",
+      "images/ml/wing.png",
+      "images/ml/NEW.png",
+      "images/ml/clock1.png",
+      "images/ml/target1.png",
+      "images/ml/feedback.png",
+      "images/ml/favourite2.png",
+      "images/ml/more1.png"
+    ],
+    "refer": [
+      "grzx1.html",
+      "bd.html",
+      "jz.html",
+      "news-detail.html"
+    ],
+    "priority": 0
+  }
+}
